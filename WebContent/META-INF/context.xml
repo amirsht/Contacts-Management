@@ -1,0 +1,10 @@
+<Context>
+
+  <Resource name="jdbc/contacts_list_management" 
+  			auth="Container" type="javax.sql.DataSource"
+               maxActive="20" maxIdle="5" maxWait="10000"
+               username="contactlist" password="contactlist" 
+               driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/contacts_list_management?allowPublicKeyRetrieval=TRUE&amp;serverTimezone=UTC"/>
+               
+</Context>
