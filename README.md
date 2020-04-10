@@ -1,5 +1,4 @@
-# Contacts Management 
-(JSP Servlet CRUD)
+# Contacts Management (CRUD App)
  
 ## Features
 
