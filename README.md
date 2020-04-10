@@ -11,22 +11,23 @@
 
 ## Project requirements
 ------------
-1. Java 8
-2. Apache Tomcat 9.0
-3. MySQL Server Workbench
-4. Eclipse
++ Java 8
++ Apache Tomcat 9.0
++ MySQL Server Workbench
++ Eclipse
 
 ## Project Setup
 --------
-Import the Project into 
-![Screenshot](https://www.eclipse.org/downloads/images/javaee.png) Eclipse IDE for Java EE Developers
+1. Run SQL scripts files in MySQL Workbench (scripts located in 'sql-scripts' folder)
 
-Please refer to this link for [Adding Server Runtime.](https://www.codejava.net/servers/tomcat/how-to-add-tomcat-server-in-eclipse-ide) Please make sure you select the Apache Tomcatv9.0 as your server. Since the minimum requirement for this Project is v9 or above. The example provided in the link refers to earlier version.
+2. Import the Project into Eclipse IDE for Java EE Developers ![Screenshot](https://www.eclipse.org/downloads/images/javaee.png)
 
-After all the above steps, the compilation errors will be vanished and you are ready to run the application.
+3. [Adding Server Runtime.](https://www.codejava.net/servers/tomcat/how-to-add-tomcat-server-in-eclipse-ide) Please make sure you select the Apache Tomcatv9.0 as your server. Since the minimum requirement for this Project is v9 or above. The example provided in the link refers to earlier version.
 
-To run the application right click the project Select Run As -> Run on Server.
+* After all the above steps, the compilation errors will be vanished and you are ready to run the application.
 
-Open your browser and type http://localhost:8080/Contacts/
+5. To run the application right click the project Select Run As -> Run on Server.
+
+6. Open your browser and type http://localhost:8080/Contacts/
 
 
