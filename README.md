@@ -31,3 +31,7 @@
 6. Open your browser and type http://localhost:8080/Contacts/
 
 
+## Example
+![Screenshot](sql-scripts/runningexample.png)
+![Screenshot](sql-scripts/addcontact.png)
+
