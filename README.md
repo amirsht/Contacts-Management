@@ -1,4 +1,4 @@
-# Contacts Management (CRUD App)
+# Contacts Management (CRUD)
  
 ## Features
 
@@ -22,16 +22,17 @@
 
 2. Import the Project into Eclipse IDE for Java EE Developers ![Screenshot](https://www.eclipse.org/downloads/images/javaee.png)
 
-3. [Adding Server Runtime.](https://www.codejava.net/servers/tomcat/how-to-add-tomcat-server-in-eclipse-ide) Please make sure you select the Apache Tomcatv9.0 as your server. Since the minimum requirement for this Project is v9 or above. The example provided in the link refers to earlier version.
+3. Fix Java build issues by adding Tomcat library [show me how](https://www.youtube.com/watch?v=yeQu91cHSAU)
 
-      After all the above steps, the compilation errors will be vanished and you are ready to run the application.
+4. [Adding Server Runtime.](https://www.codejava.net/servers/tomcat/how-to-add-tomcat-server-in-eclipse-ide) Please make sure you select the Apache Tomcatv9.0 as your server. Since the minimum requirement for this Project is v9 or above. The example provided in the link refers to earlier version.
 
-5. To run the application right click the project Select Run As -> Run on Server.
+5. After all the above steps, the compilation errors will be vanished and you are ready to run the application. 
+   To run the application right click the project Select Run As -> Run on Server.
 
 6. Open your browser and type http://localhost:8080/Contacts/
 
 
-## Example
+## Screenshots
 ![Screenshot](sql-scripts/runningexample.png)
 ![Screenshot](sql-scripts/addcontact.png)
 
